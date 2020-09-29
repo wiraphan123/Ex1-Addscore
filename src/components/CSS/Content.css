@@ -1,0 +1,19 @@
+.Content {
+  width: 100%;
+  height: 350px;
+  background-color: #051442;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+.ContentCenter {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(194, 231, 28);
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.Lorem {
+  width: 700px;
+}
